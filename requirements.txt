@@ -1,3 +1,4 @@
+streamlit
 numpy
 pandas
 
@@ -15,6 +16,9 @@ bcrypt
 segno #used for QR code generation
 pillow #used for image processing
 
-streamlit
+librosa #used for audio processing
+resemblyzer 
+
+
 
 
